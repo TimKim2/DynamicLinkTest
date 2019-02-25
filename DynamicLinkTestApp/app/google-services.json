@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "604094070500",
+    "firebase_url": "https://mytestproject-d35c3.firebaseio.com",
+    "project_id": "mytestproject-d35c3",
+    "storage_bucket": "mytestproject-d35c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:604094070500:android:dd4e18e9a12b742e",
+        "android_client_info": {
+          "package_name": "com.buzzni.tim.dynamiclinktestapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "604094070500-gpfsq63p66ghkv6jkclo2ag5eh8a21hi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.buzzni.tim.dynamiclinktestapp",
+            "certificate_hash": "dfed8e05904fa176bb606bd2ce601a84e80c445a"
+          }
+        },
+        {
+          "client_id": "604094070500-6raj79v1agqqo3eo5hp19imj5a8eeq5i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPR2ssJyUTJEBwVvydqyZaBbqyqzHctHk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "604094070500-6raj79v1agqqo3eo5hp19imj5a8eeq5i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
